@@ -44,4 +44,4 @@ This project delivers an end-to-end analytical evaluation of Olist Brazil's e-co
 
 ## 📊 Live Interactive Sheet & Deck
 * **Google Sheets Analysis:** [Insert Your Google Sheet Link Here]
-* **Presentation Deck:** [View PDF Deck]([./DATA_ANALYSIS_Brazil_Ecommerce.pdf](https://drive.google.com/file/d/1CdTNeyKnNGVRKk1X1UEnRTeqyvzdCH1i/view?usp=sharing))
+* **Presentation Deck:** [View PDF Deck]([[./DATA_ANALYSIS_Brazil_Ecommerce.pdf](https://drive.google.com/file/d/1CdTNeyKnNGVRKk1X1UEnRTeqyvzdCH1i/view?usp=sharing)](https://docs.google.com/presentation/d/1tMl1ISkXbQN9mVzTkOmvEe_BWNonEOhrEc0_h3l_fyM/edit?usp=sharing))

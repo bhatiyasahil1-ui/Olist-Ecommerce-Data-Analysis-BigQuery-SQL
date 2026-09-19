@@ -44,4 +44,4 @@ This project delivers an end-to-end analytical evaluation of Olist Brazil's e-co
 
 ### 📊 Live Links & Presentation Deck
 * 📄 **Google Presentation Deck:** [View Executive Slides](https://docs.google.com/presentation/d/1tMl1ISkXbQN9mVzTkOmvEe_BWNonEOhrEc0_h3l_fyM/edit?usp=sharing)
-* 📊 **Google Sheets Analysis:** [View Live Google Sheet](YOUR_GOOGLE_SHEET_LINK_HERE](https://docs.google.com/spreadsheets/d/1pR5gn_gw_zQlVzZEo62o_lGroHMIWXWixGxNJD1jpAw/edit?usp=sharing)(https://docs.google.com/spreadsheets/d/1pR5gn_gw_zQlVzZEo62o_lGroHMIWXWixGxNJD1jpAw/edit?usp=sharing))
+* 📊 **Google Sheets Analysis:** [View Live Google Sheet](https://docs.google.com/spreadsheets/d/1pR5gn_gw_zQlVzZEo62o_lGroHMIWXWixGxNJD1jpAw/edit?usp=sharing)

@@ -36,9 +36,9 @@ This project delivers an end-to-end analytical evaluation of Olist Brazil's e-co
 * **Finding:** Monthly AOV remains flat in a narrow band ($58–$61). The September revenue surge was purely order-volume driven, not basket-expansion driven.
 * **Action:** Pivot strategy toward AOV expansion via product bundling, minimum spend free-shipping thresholds, and cross-sell checkout prompts.
 
-### 🔹 Track 4: Payment Gateway Distribution & Reliability
-* **Finding:** Credit Cards dominate with **78.34% revenue share** and **73.92% transaction frequency**, followed by Boleto (17.92%).
-* **Action:** Implement multi-gateway server redundancy for credit card processing and auto-retry prompts to alternative methods (Boleto/Debit) on decline.
+#🔹 Track 4: Regional Order Cancellation Risk & Logistics Analysis
+* **Finding:** Out of 217 total states, only **67 states account for ~80% of total order cancellations**, showing a heavy Pareto concentration in regional fulfillment risks.
+* **Action:** Implement a nominal delivery fee in top high-risk states to curb fake/impulse orders, and trigger post-cancellation feedback surveys to identify transit damage or product discrepancy issues.
 
 ---
 

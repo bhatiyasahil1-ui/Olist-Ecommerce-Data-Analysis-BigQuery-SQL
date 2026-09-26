@@ -1,7 +1,7 @@
-# 📊 Olist Brazil E-Commerce Data Analytics Project
+# 📊 Big query public dataset e-commerce dataset project
 
 ## 📌 Executive Summary
-This project delivers an end-to-end analytical evaluation of Olist Brazil's e-commerce dataset using **BigQuery SQL**, **Google Sheets**, and **Data Visualization**. The primary goal is to uncover revenue drivers, diagnose seasonal anomalies, evaluate Average Order Value (AOV) dynamics, and optimize checkout infrastructure.
+This project delivers an end-to-end analytical evaluation of Big query public dataset e-commerce dataset using **BigQuery SQL**, **Google Sheets**, and **Data Visualization**. The primary goal is to uncover revenue drivers, diagnose seasonal anomalies, evaluate Average Order Value (AOV) dynamics, and optimize checkout infrastructure.
 
 ---
 

@@ -24,9 +24,9 @@ This project delivers an end-to-end analytical evaluation of Big query public da
 ## 🚀 Key Project Tracks & Business Insights
 
 ### 🔹 Track 1: Month-on-Month Revenue & Volume Trends
-* **Finding:** September hit annual peak revenue and order volume, followed by a >50% crash in October post price adjustment.
-* **Data Anomaly:** February and October exhibited identical bar heights for volume and revenue despite unit price hikes, signaling potential volume inflation or revenue logging distortion.
-* **Action:** Immediate transaction-level audit recommended prior to Q4 reporting.
+* **Finding:** September reached the annual peak in both volume (5,628 units) and revenue ($334,264), followed by a sharp ~46.3% revenue decline in October ($179,589)[cite: 2].
+* **Root Cause:** The October drop was driven almost entirely by a ~47% collapse in order volume (falling from 5,628 to 2,980 units)[cite: 2]. A slight unit price increase of ~2.16% ($59.39 to $60.67) was far too small to offset the loss in order volume[cite: 2].
+* **Action:** Perform customer checkout funnel analysis to identify why order volume dropped post-September, and optimize promotional pricing strategies to restore order momentum[cite: 2].
 
 ### 🔹 Track 2: Product Revenue Drivers (Pareto 80/20 Rule)
 * **Finding:** Out of 26 product categories, the top 14 (e.g., Outerwear & Coats, Jeans, Sweaters) generate **80.76% of total gross merchandise value**.
